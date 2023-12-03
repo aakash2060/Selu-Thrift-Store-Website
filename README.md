@@ -1,4 +1,6 @@
 This is a fully- functional web application, Selu Thrift Store was made to facilitate the seamless buying and selling of goods at affordable prices within the Selu community. It was made for a Software Engineering Class and hasn’t been deployed on the web.
+
+
 Overview:
  This full-stack application leverages ASP.NET for the backend, Entity Framework for efficient data management, and a dynamic front end developed with React.js and TypeScript. The user interface boasts a sleek design using Mantine UI, complemented by Font Awesome for additional style. 
 
